@@ -24,12 +24,12 @@ You can listen to music that has used the VQH in its artistic process:
 - Create a python environment (Python >3.10 recommended)
 
 Python dependencies:
-`qiskit`, `qiskit-optimization`, `qiskit-aer`, `numpy`, `matplotlib`, `Pylatexenc` `PyQt5`, `prompt_toolkit`, `python-osc`, [`python-supercollider`](https://pypi.org/project/supercollider/)
+`qiskit`, `qiskit-optimization`, `qiskit-aer`, `numpy`, `matplotlib`, `Pylatexenc` `PyQt5`, `prompt_toolkit`, `python-osc`, [`python-supercollider`](https://pypi.org/project/supercollider/), `requests`, `music21`
 
 Installing dependencies with pip:
 
 ```bash
-pip install qiskit==0.46 qiskit-optimization qiskit-aer==0.14.2 matplotlib pylatexenc pyqt5 prompt_toolkit python-osc supercollider
+pip install qiskit==0.46 qiskit-optimization qiskit-aer==0.14.2 matplotlib pylatexenc pyqt5 prompt_toolkit python-osc supercollider requests music21
 ```
 
 
